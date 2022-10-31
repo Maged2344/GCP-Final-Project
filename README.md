@@ -43,6 +43,7 @@ kubectl apply -f "add file name here"
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## result image
+![Screenshot from 2022-10-31 22-06-30](https://user-images.githubusercontent.com/62676576/199102182-19a1f549-331d-4afe-abbe-d9bc4af4d4c9.png)
 
 
 
